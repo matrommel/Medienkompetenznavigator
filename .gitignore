@@ -1,6 +1,8 @@
 config.ini
 wordpress.zip
 gitinit
+export/
+transform/
 
 
 # Byte-compiled / optimized / DLL files
@@ -144,6 +146,7 @@ venv.bak/
 # Spyder project settings
 .spyderproject
 .spyproject
+
 
 # Rope project settings
 .ropeproject
