@@ -1,0 +1,218 @@
+{
+    "collection": {
+        "version": "1.0",
+        "href": "https:\/\/mk-navi.mebis.bycs.de\/api\/mcs\/3868\/suggestions\/96695",
+        "items": [
+            {
+                "href": "https:\/\/mk-navi.mebis.bycs.de\/api\/mcs\/3868\/suggestions\/96695",
+                "data": [
+                    {
+                        "name": "id",
+                        "value": 96695,
+                        "prompt": "Id"
+                    },
+                    {
+                        "name": "mc_id",
+                        "value": 3868,
+                        "prompt": "Mc"
+                    },
+                    {
+                        "name": "based_on_suggestion_id",
+                        "value": null,
+                        "prompt": "Mc"
+                    },
+                    {
+                        "name": "thema",
+                        "value": "LS11 uns LS12 Betriebsystem eines Teilsystems z.B. Linux f\u00fcr die Werkstatttor\u00fcberwachung des AHN",
+                        "prompt": "Theam"
+                    },
+                    {
+                        "name": "learningdomain_title",
+                        "value": "",
+                        "prompt": "LearningdomainTitle"
+                    },
+                    {
+                        "name": "learningsubdomain_title",
+                        "value": "",
+                        "prompt": "LearningsubdomainTitle"
+                    },
+                    {
+                        "name": "examples_array",
+                        "value": [],
+                        "prompt": "ExamplesArray"
+                    },
+                    {
+                        "name": "suggestion_link",
+                        "value": null,
+                        "prompt": "SuggestionLink"
+                    },
+                    {
+                        "name": "suggestion_learninggoals",
+                        "value": "Die Tor\u00fcberwachung soll auch nach einem Neustart des Raspberry Pi wieder zuverl\u00e4ssig laufen. Die Robustheit des Teilsystems \"Werkstatttor\u00fcberwachung\" auf dem Linux-Betriebsystem des Raspberry PIs soll also erh\u00f6ht werden.",
+                        "prompt": "SuggestionLearninggoals"
+                    },
+                    {
+                        "name": "suggestion_topics",
+                        "value": "-->Was versteht man unter der Robustheit eines Informationstechnischen Systems?\n-->Grundlegende Linux-Befehle\n-->Dateizugriffsrechte in Linux\n-->Erh\u00f6hung der Robustheit durch automatisierten Startvorgang",
+                        "prompt": "SuggestionTopics"
+                    },
+                    {
+                        "name": "suggestion_description",
+                        "value": "",
+                        "prompt": "SuggestionDescription"
+                    },
+                    {
+                        "name": "subjects",
+                        "value": "160",
+                        "prompt": "Subjects"
+                    },
+                    {
+                        "name": "subjects_array",
+                        "value": [
+                            {
+                                "subject_id": 160,
+                                "subject_title": "Fach\u00fcbergreifend",
+                                "subject_code": "F\u00dc"
+                            }
+                        ],
+                        "prompt": "SubjectsArray"
+                    },
+                    {
+                        "name": "branches",
+                        "value": "30",
+                        "prompt": "Branches"
+                    },
+                    {
+                        "name": "branches_array",
+                        "value": [
+                            {
+                                "id": 30,
+                                "title": "Berufsschule",
+                                "code": "Berufsschule"
+                            }
+                        ],
+                        "prompt": "BranchesArray"
+                    },
+                    {
+                        "name": "schoolyear",
+                        "value": 11,
+                        "prompt": "Schoolyear"
+                    },
+                    {
+                        "name": "competences",
+                        "value": "1,3",
+                        "prompt": "Competences"
+                    },
+                    {
+                        "name": "sectioncompetences",
+                        "value": "1,2,10",
+                        "prompt": "Sectioncompetences"
+                    },
+                    {
+                        "name": "competences_array",
+                        "value": [
+                            {
+                                "competence_id": 1,
+                                "sectioncompetence_id": 1,
+                                "competence_number": 1,
+                                "sectioncompetence_number": 1,
+                                "sectioncompetence_title": "Medienangebote und Informatiksysteme (Hardware-, Software und\/oder Netzwerkkomponenten) sach- und zielorientiert handhaben"
+                            },
+                            {
+                                "competence_id": 1,
+                                "sectioncompetence_id": 2,
+                                "competence_number": 1,
+                                "sectioncompetence_number": 2,
+                                "sectioncompetence_title": "Funktionsweisen und grundlegende Prinzipien von Medienangeboten und Informatiksystemen durchdringen und zur Bew\u00e4ltigung neuer Herausforderungen einsetzen"
+                            },
+                            {
+                                "competence_id": 3,
+                                "sectioncompetence_id": 10,
+                                "competence_number": 3,
+                                "sectioncompetence_number": 2,
+                                "sectioncompetence_title": "Analoge und digitale Werkzeuge zur effektiven Gestaltung kollaborativer als auch individueller Lernprozesse verwenden und Resultate mit anderen teilen"
+                            }
+                        ],
+                        "prompt": "CompetencesArray"
+                    },
+                    {
+                        "name": "lessonactivities",
+                        "value": "2,15,4,10,12,6,13",
+                        "prompt": "Lessonactivities"
+                    },
+                    {
+                        "name": "lessonactivities_array",
+                        "value": [
+                            {
+                                "id": 2,
+                                "title": "Audiovisuell"
+                            },
+                            {
+                                "id": 15,
+                                "title": "Computersysteme"
+                            },
+                            {
+                                "id": 4,
+                                "title": "Information"
+                            },
+                            {
+                                "id": 10,
+                                "title": "Kommunikationsmedien"
+                            },
+                            {
+                                "id": 12,
+                                "title": "Online-Lernangebote"
+                            },
+                            {
+                                "id": 6,
+                                "title": "Quellen"
+                            },
+                            {
+                                "id": 13,
+                                "title": "Software"
+                            }
+                        ],
+                        "prompt": "LessonactivitiesArray"
+                    },
+                    {
+                        "name": "focalpoints",
+                        "value": "11762",
+                        "prompt": "Focalpoints"
+                    },
+                    {
+                        "name": "focalpoints_array",
+                        "value": [
+                            {
+                                "focalpoint_id": 11762,
+                                "focalpoint_name": "IT-Technik (ITT) - 11"
+                            }
+                        ],
+                        "prompt": "FocalpointsArray"
+                    },
+                    {
+                        "name": "materials_array",
+                        "value": [
+                            {
+                                "id": 91745,
+                                "title": "LS 11 und 12 Linux BS",
+                                "description": "",
+                                "link": "https:\/\/lernplattform.mebis.bayern.de\/course\/view.php?id=1162089&section=14#tabs-tree-start",
+                                "link_type": 2,
+                                "lessonactivities_array": []
+                            },
+                            {
+                                "id": 91748,
+                                "title": "LS12 Erh\u00f6hung der Robustheit",
+                                "description": "",
+                                "link": "https:\/\/lernplattform.mebis.bayern.de\/course\/view.php?id=1162089&section=15#tabs-tree-start",
+                                "link_type": 2,
+                                "lessonactivities_array": []
+                            }
+                        ],
+                        "prompt": "MaterialsArray"
+                    }
+                ]
+            }
+        ]
+    }
+}
