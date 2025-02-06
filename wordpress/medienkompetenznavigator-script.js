@@ -57,11 +57,7 @@ jQuery(function($) {
                             if (lernsituation.lerninhalt) {
                                 accordionHtml += `<p><strong>Lerninhalt:</strong> ${lernsituation.lerninhalt.join(', ')}</p>`;
                             }
-                            if (lernsituation.materialien) {
-                                accordionHtml += `<p><strong>Materialien:</strong> ${lernsituation.materialien.mebis_kurs}</p>`;
-                            }
-                            accordionHtml += `<p><strong>Fach:</strong> ${lernsituation.fach}</p>`;
-                            accordionHtml += `<p><strong>Schuljahr:</strong> ${lernsituation.schuljahr}</p>`;
+                    s
                             if (lernsituation.kompetenzen) {
                                 accordionHtml += `<p><strong>Kompetenzen:</strong> ${formatKompetenzen(lernsituation.kompetenzen)}</p>`;
                             }
