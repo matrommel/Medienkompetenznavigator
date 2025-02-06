@@ -43,7 +43,7 @@ def transform_data(input_file):
             "id": suggestion['data'][0]['value'],
             "thema": suggestion['data'][3]['value'],
             "lernziele": lernziele,
-            "vorschlagslink": suggestion['href'],
+            "vorschlagslink": suggestion['data'][8]['value'] if suggestion['data'][8]['name'] == 'suggestion_link' else None,  # Verwenden des 'link'-Felds
             "lerninhalt": lerninhalt,
             "materialien": materialien,
             "fach": "Fachübergreifend (FÜ)",
